@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: 
+
+Disallow: /desktops_6/
+Sitemap: http://www.laptop-coupon.com/sitemap.xml 
